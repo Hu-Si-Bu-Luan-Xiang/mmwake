@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+F:/now/projects/2023_06_15/mmwake/build/CMakeFiles/bootloader
+F:/now/projects/2023_06_15/mmwake/build/CMakeFiles/bootloader.rule
+F:/now/projects/2023_06_15/mmwake/build/CMakeFiles/bootloader-complete.rule
+F:/now/projects/2023_06_15/mmwake/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+F:/now/projects/2023_06_15/mmwake/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+F:/now/projects/2023_06_15/mmwake/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+F:/now/projects/2023_06_15/mmwake/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+F:/now/projects/2023_06_15/mmwake/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+F:/now/projects/2023_06_15/mmwake/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+F:/now/projects/2023_06_15/mmwake/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule

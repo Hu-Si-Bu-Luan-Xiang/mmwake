@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "F:/now/projects/2023_06_15/mmwake/build/CMakeFiles/bootloader"
+		},
+		{
+			"file" : "F:/now/projects/2023_06_15/mmwake/build/CMakeFiles/bootloader.rule"
+		},
+		{
+			"file" : "F:/now/projects/2023_06_15/mmwake/build/CMakeFiles/bootloader-complete.rule"
+		},
+		{
+			"file" : "F:/now/projects/2023_06_15/mmwake/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+		},
+		{
+			"file" : "F:/now/projects/2023_06_15/mmwake/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+		},
+		{
+			"file" : "F:/now/projects/2023_06_15/mmwake/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+		},
+		{
+			"file" : "F:/now/projects/2023_06_15/mmwake/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+		},
+		{
+			"file" : "F:/now/projects/2023_06_15/mmwake/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+		},
+		{
+			"file" : "F:/now/projects/2023_06_15/mmwake/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+		},
+		{
+			"file" : "F:/now/projects/2023_06_15/mmwake/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"bootloader"
+		],
+		"name" : "bootloader"
+	}
+}
